@@ -52,7 +52,7 @@ const About = () => {
                 <img
                   src="https://raw.githubusercontent.com/Sandeep2229/profile_photo/main/profilephoto.png"
                   alt="Sai Sandeep Mamidala"
-                  className="w-full h-72 md:h-96 rounded-lg overflow-hidden"
+                  className="w-full h-full object-cover rounded-lg"
                 />
               </div>
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent"></div>
