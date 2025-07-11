@@ -30,7 +30,7 @@ const MusicPlayer = () => {
       setIsPlaying(!isPlaying);
     }
   };
-
+//
   return (
     <button 
       onClick={togglePlayback}
